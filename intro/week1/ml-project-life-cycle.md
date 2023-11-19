@@ -7,7 +7,7 @@
 - Define metrics, resources needed => timeline
 - Data:
     - Consistent labeling
-    - Silence before/after each clip ?
+    - Silence before/after each clip cutoff?
     - Volume normalization ?
     - etc.
 - Modeling = Code + Hyperparameters + Data
