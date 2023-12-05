@@ -41,7 +41,19 @@
 - Performance of **older system**.
 > ### => Always bargain with the project/bussinesss owner for baseline before starting the project.
 
+## [Tips to start a ML project][5]
+### Planning Steps.
+- **Search Internet** for what's posible => Understand **baselines** => **test open-source on **development env**.
+- Understand **hardware/financial** constraints
+- Find similar **open-source solutions**.
+
+### **Sanity-checks** for code and algo
+- Try **overfit** the code to **small training dataset**, **before** the **larger one**
+    => check **If** the model is **worth developing** and to find **bugs**
+
+
 [1]:https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/TrGYq/modeling-overview
 [2]:https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/OFPbm/key-challenges
 [3]:https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/0MLwJ/why-low-average-error-isn-t-good-enough
 [4]:https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/KYu4T/establish-a-baseline
+[5]:https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/1Qwxh/tips-for-getting-started
